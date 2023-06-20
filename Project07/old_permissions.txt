@@ -1,0 +1,9 @@
+total 24
+drwx------  2 adriangellert  staff  4096 Apr  9 17:19 __pycache__
+-rw-------  1 adriangellert  staff     0 Apr 10 12:01 old_permissions.txt
+-rw-------  1 adriangellert  staff   558 Apr  9 17:18 project7.py
+-rw-------  1 adriangellert  staff   994 Apr  9 17:18 speech_to_text.py
+
+/Volumes/GoogleDrive/My Drive/CS151/Project07/__pycache__:
+total 8
+-rw-------  1 adriangellert  staff  791 Apr  9 17:19 speech_to_text.cpython-39.pyc
